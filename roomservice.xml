@@ -1,0 +1,35 @@
+<manifest>
+<!--  Device tree  -->
+<project name="linux4-bringup-priv/android_device_samsung_beyond0lte" path="device/samsung/beyond0lte" revision="lineage-21.0" remote="github"/>
+<project name="linux4-bringup-priv/android_device_samsung_beyond1lte" path="device/samsung/beyond1lte" revision="lineage-21.0" remote="github"/>
+<project name="linux4-bringup-priv/android_device_samsung_beyond2lte" path="device/samsung/beyond2lte" revision="lineage-21.0" remote="github"/>
+<project name="linux4-bringup-priv/android_device_samsung_beyondx" path="device/samsung/beyondx" revision="lineage-21.0" remote="github"/>
+<project name="linux4-bringup-priv/android_device_samsung_d1" path="device/samsung/d1" revision="lineage-21.0" remote="github"/>
+<project name="linux4-bringup-priv/android_device_samsung_d2s" path="device/samsung/d2s" revision="lineage-21.0" remote="github"/>
+<project name="linux4-bringup-priv/android_device_samsung_d2x" path="device/samsung/d2x" revision="lineage-21.0" remote="github"/>
+<project name="linux4-bringup-priv/android_device_samsung_f62" path="device/samsung/f62" revision="lineage-21.0" remote="github"/>
+<!--  Vendor  -->
+<project name="linux4-bringup-priv/android_vendor_samsung_beyond0lte" path="vendor/samsung/beyond0lte" revision="lineage-21.0" remote="github"/>
+<project name="linux4-bringup-priv/android_vendor_samsung_beyond1lte" path="vendor/samsung/beyond1lte" revision="lineage-21.0" remote="github"/>
+<project name="linux4-bringup-priv/android_vendor_samsung_beyond2lte" path="vendor/samsung/beyond2lte" revision="lineage-21.0" remote="github"/>
+<project name="linux4-bringup-priv/android_vendor_samsung_beyondx" path="vendor/samsung/beyondx" revision="lineage-21.0" remote="github"/>
+<project name="linux4-bringup-priv/android_vendor_samsung_d1" path="vendor/samsung/d1" revision="lineage-21.0" remote="github"/>
+<project name="linux4-bringup-priv/android_vendor_samsung_d2s" path="vendor/samsung/d2s" revision="lineage-21.0" remote="github"/>
+<project name="linux4-bringup-priv/android_vendor_samsung_d2x" path="vendor/samsung/d2x" revision="lineage-21.0" remote="github"/>
+<project name="linux4-bringup-priv/android_vendor_samsung_f62" path="vendor/samsung/f62" revision="lineage-21.0" remote="github"/>
+<!--  Hardware  -->
+<project name="linux4-bringup-priv/android_hardware_samsung_slsi-linaro_config" path="hardware/samsung_slsi-linaro/config" revision="lineage-21.0" remote="github"/>
+<project name="linux4-bringup-priv/android_hardware_samsung_slsi-linaro_exynos" path="hardware/samsung_slsi-linaro/exynos" revision="lineage-21.0" remote="github"/>
+<project name="linux4-bringup-priv/android_hardware_samsung_slsi-linaro_exynos5" path="hardware/samsung_slsi-linaro/exynos5" revision="lineage-21.0" remote="github"/>
+<project name="linux4-bringup-priv/android_hardware_samsung_slsi-linaro_graphics" path="hardware/samsung_slsi-linaro/graphics" revision="lineage-21.0" remote="github"/>
+<project name="linux4-bringup-priv/android_hardware_samsung_slsi-linaro_openmax" path="hardware/samsung_slsi-linaro/openmax" revision="lineage-21.0" remote="github"/>
+<project name="linux4-bringup-priv/android_hardware_samsung_slsi-linaro_interfaces" path="hardware/samsung_slsi-linaro/interfaces" revision="lineage-21.0" remote="github"/>
+<project name="linux4-bringup-priv/android_hardware_samsung" path="hardware/samsung" revision="lineage-21.0" remote="github"/>
+<!--  Sepolicy  -->
+<project name="linux4-bringup-priv/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="lineage-21.0" remote="github"/>
+<!--  Common  -->
+<project name="linux4-bringup-priv/android_vendor_samsung_exynos9820-common" path="vendor/samsung/exynos9820-common" revision="lineage-21.0" remote="github"/>
+<!--  Kernel  -->
+<project name="linux4-bringup-priv/android_kernel_samsung_exynos9820" path="kernel/samsung/exynos9820" revision="lineage-21.0" remote="github"/>
+<project name="linux4-bringup-priv/android_device_samsung_exynos9820-common" path="device/samsung/exynos9820-common" revision="lineage-21.0" remote="github"/>
+</manifest>
